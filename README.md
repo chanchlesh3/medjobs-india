@@ -30,3 +30,11 @@ India's First Dedicated Job Portal for Medical Professionals & Students
 2. Update `application.properties` with your DB password
 3. Run `MedjobsApplication.java`
 4. Frontend: `cd medjobs-frontend && npm start`
+
+## 🔮 Upcoming Features
+- [ ] Document verification for doctors & hospitals
+- [ ] Role based access control (EMPLOYER/SEEKER)
+- [ ] Admin panel for profile verification
+- [ ] Email notifications for applications
+- [ ] AI-powered job recommendations
+- [ ] Resume upload feature
